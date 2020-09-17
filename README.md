@@ -8,7 +8,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 - 💻 Techs: JavaScript, Node.js, React.js.
 
 - 📫 How to reach me:
-[![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)]   (https://twitter.com/ribeirolucas51) 
+[![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)](https://twitter.com/ribeirolucas51) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-51ribeiro/)](https://www.linkedin.com/in/lucas-51ribeiro/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasm_ribeiro/)](https://www.instagram.com/lucasm_ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasmartins0498@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmartins0498@gmail.com)](mailto:lucasmartins0498@gmail.com)
