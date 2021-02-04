@@ -4,8 +4,8 @@ My name is Lucas Ribeiro 😄
 I am a student of Information Systems at the Federal Fluminense Institute of Itaperuna.
 
 - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
-- 🌱 I’m currently studying web development.
-- 💻 Techs: JavaScript, Node.js, React.js.
+- 🌱 I am currently studying web development and application development.
+- 💻 Techs: Java, JavaScript, Node.js, React.js, React Native.
 
 - 📫 How to reach me:
 [![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)](https://twitter.com/ribeirolucas51) 
