@@ -5,7 +5,9 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 
 - 🎓 Graduating in Information Systems from Instituto Federal Fluminense.
 - 🌱 I am currently studying web development and application development.
-- 💻 Techs: Java, JavaScript, Node.js, React.js, React Native.
+- 💻 Techs front-end: HTML5, CSS3, JavaScript, React.js.
+- 💻 Techs back-end: Java, Node.js.
+- 💻 Techs mobile: React Native.
 
 - 📫 How to reach me:
 [![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)](https://twitter.com/ribeirolucas51) 
