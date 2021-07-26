@@ -10,7 +10,7 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 - 💻 Techs mobile: ![image](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=azul)
 
 - 📫 How to reach me:
-[![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-1DA1F2?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)](https://twitter.com/ribeirolucas51) 
+[![Twitter Badge](https://img.shields.io/badge/-@ribeirolucas51-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/ribeirolucas51)](https://twitter.com/ribeirolucas51) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-51ribeiro/)](https://www.linkedin.com/in/lucas-51ribeiro/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasm_ribeiro/)](https://www.instagram.com/lucasm_ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasmartins0498@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmartins0498@gmail.com)](mailto:lucasmartins0498@gmail.com)
