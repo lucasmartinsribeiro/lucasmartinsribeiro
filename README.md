@@ -15,6 +15,15 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucasm_ribeiro/)](https://www.instagram.com/lucasm_ribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasmartins0498@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmartins0498@gmail.com)](mailto:lucasmartins0498@gmail.com)
 
+<div align="center" >
+  <a href="https://github.com/lucasmartinsribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=frizzocamila&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/lucasmartinsribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frizzocamila&layout=compact&theme=radical" />
+  </a>
+</div>
+
 <!--
 **lucasmartinsribeiro/lucasmartinsribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
