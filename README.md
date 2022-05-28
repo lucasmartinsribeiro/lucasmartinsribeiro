@@ -17,10 +17,10 @@ I am a student of Information Systems at the Federal Fluminense Institute of Ita
 
 <div align="center" >
   <a href="https://github.com/lucasmartinsribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=frizzocamila&show_icons=true&theme=radical" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmartinsribeiro&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/lucasmartinsribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frizzocamila&layout=compact&theme=radical" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinsribeiro&layout=compact&theme=radical" />
   </a>
 </div>
 
