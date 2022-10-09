@@ -3,7 +3,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmartinsribeiro&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/lucasmartinsribeiro">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinsribeiro&layout=compact&theme=dark&langs_count=10&hide=Handlebars" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartinsribeiro&layout=compact&theme=dark&langs_count=10&hide=Handlebars" />
   </a>
 </div>
 
